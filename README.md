@@ -1,1 +1,1 @@
-# data_science_resources
+See The Wiki for this repo 
